@@ -1,0 +1,17 @@
+C:\Users\User\AppData\Local\Temporary Projects\DPI Trainer\bin\Debug\DPI Trainer.exe
+C:\Users\User\AppData\Local\Temporary Projects\DPI Trainer\bin\Debug\DPI Trainer.pdb
+C:\Users\User\AppData\Local\Temporary Projects\DPI Trainer\obj\x86\Debug\DPI_Trainer.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\DPI Trainer\obj\x86\Debug\DPI_Trainer.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\DPI Trainer\obj\x86\Debug\DPI Trainer.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\DPI Trainer\obj\x86\Debug\DPI Trainer.exe
+C:\Users\User\AppData\Local\Temporary Projects\DPI Trainer\obj\x86\Debug\DPI Trainer.pdb
+C:\Users\User\AppData\Local\Temporary Projects\DPI Trainer\obj\x86\Debug\DPI_Trainer.Form2.resources
+D:\C# Projects\DPI Trainer\DPI Trainer\obj\x86\Debug\DPI Trainer.exe
+D:\C# Projects\DPI Trainer\DPI Trainer\obj\x86\Debug\DPI Trainer.pdb
+D:\C# Projects\DPI Trainer\DPI Trainer\bin\Debug\DPI Trainer.exe
+D:\C# Projects\DPI Trainer\DPI Trainer\bin\Debug\DPI Trainer.pdb
+D:\C# Projects\DPI Trainer\DPI Trainer\obj\x86\Debug\DPI_Trainer.Form1.resources
+D:\C# Projects\DPI Trainer\DPI Trainer\obj\x86\Debug\DPI_Trainer.Form2.resources
+D:\C# Projects\DPI Trainer\DPI Trainer\obj\x86\Debug\DPI_Trainer.Properties.Resources.resources
+D:\C# Projects\DPI Trainer\DPI Trainer\obj\x86\Debug\DPI Trainer.csproj.GenerateResource.Cache
+D:\C# Projects\DPI Trainer\DPI Trainer\obj\x86\Debug\DPI Trainer.csprojResolveAssemblyReference.cache
